@@ -1,0 +1,2 @@
+12/04/2023 16:45 - EdadNegativaException: Imposible crear el usuario con nombre Carlos. La edad no puede ser negativa. (Edad indicada: -3).
+12/04/2023 16:46 - MenorDeEdadException: Imposible crear el usuario con nombre Pedro. El cliente no puede ser menor de edad (Edad indicada: 14).

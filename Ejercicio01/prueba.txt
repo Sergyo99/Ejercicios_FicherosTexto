@@ -1,0 +1,3 @@
+Este es el fichero de prueba
+Es el fichero por defecto
+Tiene tres lienas escritas.
